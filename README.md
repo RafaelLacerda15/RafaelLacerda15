@@ -1,7 +1,7 @@
-👋 Hi, I’m Rafael Lacerda
+- 👋 Hi, I’m Rafael Lacerda
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning python
--📫 How to reach me by email: raafaellacerdaa@gmail.com
+- 📫 How to reach me by email: raafaellacerdaa@gmail.com
 
 <!---
 RafaelLacerda15/RafaelLacerda15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
