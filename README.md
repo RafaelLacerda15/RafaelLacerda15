@@ -45,16 +45,21 @@ Docker • Streamlit • PostgreSQL • MySQL • Supabase • Git • Scrum
 
 ### 📂 Projetos em Destaque
 
-- **🔹 Micro SaaS – Ello's Brand** (em desenvolvimento)  
-  Automação completa + dashboards em tempo real para agência de marketing.
+**Micro SaaS – Ello's Brand**
 
-- **🔹 Sistema de Inteligência em Docas**  
-  Automação de agendamentos e controle logístico com regras de negócio e banco relacional.
+- 🔹 **[ASSDACO - Triagem Hospitalar](https://github.com/RafaelLacerda15/assdaco-triagem)**  
+  Sistema completo de triagem hospitalar com suporte dual database (SQLite + PostgreSQL), migração automática de dados e deploy production-ready na Render.
 
-- **🔹 Integração de LLMs**  
-  Agentes inteligentes com LangChain + OpenAI para classificação e análise automática de textos.
+- 🔹 **[WhatsApp Bot Automatizado](https://github.com/RafaelLacerda15/whatsapp-bot-flask-evolution)**  
+  Bot inteligente para envio em massa, listas interativas, rastreamento de conversas e dashboard em tempo real com Evolution API.
 
-*(Em breve todos os projetos estarão aqui com repositórios públicos e README detalhados)*
+- 🔹 **[Sistema de Orçamentos Inteligente](https://github.com/RafaelLacerda15/sistema-orcamentos-flask)**  
+  Geração, edição e envio automático de orçamentos via WhatsApp com rastreamento completo de status e dashboard analítico.
+
+**Integração de LLMs**
+
+- 🔹 **[Agentes Inteligentes no WhatsApp Bot](https://github.com/RafaelLacerda15/whatsapp-bot-flask-evolution)**  
+  Fluxos conversacionais inteligentes, listas interativas e automação baseada em regras + IA.
 
 ---
 
