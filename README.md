@@ -60,7 +60,11 @@ Docker • Streamlit • PostgreSQL • MySQL • Supabase • Git • Scrum
 
 - 🔹 **[Agentes Inteligentes no WhatsApp Bot](https://github.com/RafaelLacerda15/whatsapp-bot-flask-evolution)**  
   Fluxos conversacionais inteligentes, listas interativas e automação baseada em regras + IA.
+  
+**Outros Projetos**
 
+- 🔹 **[Sistema de Inteligência em Docas]([https://github.com/RafaelLacerda15/whatsapp-bot-flask-evolution](https://github.com/RafaelLacerda15/Sistema-de-Inteligencia-em-Docas))**
+  Automação inteligente de agendamentos e controle de fluxo logístico
 ---
 
 ### 📫 Vamos conversar?
