@@ -30,6 +30,7 @@ Anteriormente no **Mercado Livre** (2024–2026), onde criei automações logís
 
 **Automação & Dados**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45A8E0?style=for-the-badge&logo=playwright&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTesseract](https://img.shields.io/badge/OCR-FF9900?style=for-the-badge&logo=google&logoColor=white)
 
