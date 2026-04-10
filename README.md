@@ -63,7 +63,7 @@ Docker • Streamlit • PostgreSQL • MySQL • Supabase • Git • Scrum
   
 **Outros Projetos**
 
-- 🔹 **[Sistema de Inteligência em Docas](https://github.com/RafaelLacerda15/Sistema-de-Inteligencia-em-Docas)**
+- 🔹 **[Sistema de Inteligência em Docas](https://github.com/RafaelLacerda15/Sistema-de-Inteligencia-em-Docas)**   
   Automação inteligente de agendamentos e controle de fluxo logístico
 ---
 
