@@ -60,18 +60,18 @@ Anteriormente no **Mercado Livre** (2024–2026), onde criei automações logís
 
 **Micro SaaS – Ello's Brand**
 
-- 🔹 **[ASSDACO - Triagem Hospitalar](https://github.com/RafaelLacerda15/assdaco-triagem)**  
+- 🔹 **[ASSDACO - Triagem Hospitalar](https://github.com/RafaelLacerda15/ASSDACO---Triagem-Hospitalar.)**  
   Sistema completo de triagem hospitalar com suporte dual database (SQLite + PostgreSQL), migração automática de dados e deploy production-ready na Render.
 
-- 🔹 **[WhatsApp Bot Automatizado](https://github.com/RafaelLacerda15/whatsapp-bot-flask-evolution)**  
+- 🔹 **[WhatsApp Bot Automatizado](https://github.com/RafaelLacerda15/WhatsApp-Bot-Automatizado)**  
   Bot inteligente para envio em massa, listas interativas, rastreamento de conversas e dashboard em tempo real com Evolution API.
 
-- 🔹 **[Sistema de Orçamentos Inteligente](https://github.com/RafaelLacerda15/sistema-orcamentos-flask)**  
+- 🔹 **[Sistema de Orçamentos Inteligente](https://github.com/RafaelLacerda15/Sistema-de-Orcamentos-Inteligente)**  
   Geração, edição e envio automático de orçamentos via WhatsApp com rastreamento completo de status e dashboard analítico.
 
 **Integração de LLMs**
 
-- 🔹 **[Agentes Inteligentes no WhatsApp Bot](https://github.com/RafaelLacerda15/whatsapp-bot-flask-evolution)**  
+- 🔹 **[Agentes Inteligentes no WhatsApp Bot](https://github.com/RafaelLacerda15/WhatsApp-Bot-Automatizado)**  
   Fluxos conversacionais inteligentes, listas interativas e automação baseada em regras + IA.
   
 **Outros Projetos**
